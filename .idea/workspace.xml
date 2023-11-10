@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3bc8751-4f59-4a8a-8899-d1f710e4ff40" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MendeklarasikanKelasGeneric.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variance.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    <list default="true" id="d3bc8751-4f59-4a8a-8899-d1f710e4ff40" name="Changes" comment="Upload Mendeklarasikan Kelas Generic dan Variance">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Variance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Variance.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,11 +86,20 @@
       <option name="project" value="LOCAL" />
       <updated>1699589197466</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Upload Mendeklarasikan Kelas Generic dan Variance">
+      <option name="closed" value="true" />
+      <created>1699590532527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699590532527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Upload Mendeklarasikan Kelas Generic dan Variance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Mendeklarasikan Kelas Generic dan Variance" />
   </component>
 </project>
